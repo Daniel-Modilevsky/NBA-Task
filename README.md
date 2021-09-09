@@ -18,7 +18,7 @@ An application that publishes information with the help of an API about basketba
 ## 🏃‍ Local Installation
 
 1. Clone the Repo by going to your local Git Client and pushing in the command:
-https://github.com/mechiragjain/Chat-Application.git
+https://github.com/Daniel-Modilevsky/NBA-Task
 or download.
 2. $cd server.
 3. $npm start.
