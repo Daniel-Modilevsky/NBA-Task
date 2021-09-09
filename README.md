@@ -1,7 +1,7 @@
 # NBA Task
 Players favorite application based on React.
 
-![NBA](https://www.pngfind.com/pngs/m/274-2742979_nba-logo-logotipo-de-la-nba-hd-png.png)
+![NBA](https://pngimg.com/uploads/nba/nba_PNG14.png)
 
 An application that publishes information with the help of an API about basketball players and allows the selection of favorite players for a private list.
 
